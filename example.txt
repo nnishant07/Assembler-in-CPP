@@ -1,0 +1,5 @@
+val: SET 2
+br val
+ldc 3
+ldc 4
+HALT
